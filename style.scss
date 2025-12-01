@@ -260,7 +260,10 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
-
+.post-thumbnail {
+  max-width: 300px;
+  border-radius: 8px;
+}
   .comments {
     margin-top: 10px;
   }
