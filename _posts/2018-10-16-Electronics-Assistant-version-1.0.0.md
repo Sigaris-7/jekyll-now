@@ -8,3 +8,5 @@ Today I published a new version of the “Electronics Assistant”. The version 
 The main change that I introduced is a completely new Ohm law calculation module.
 
 ![](/assets/images/post_1/Ohms_law_1.png)
+
+The program is available for download from SourceForge: [https://sourceforge.net/projects/electronics-assistance/](https://sourceforge.net/projects/electronics-assistance/)
