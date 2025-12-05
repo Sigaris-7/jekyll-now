@@ -2,7 +2,7 @@
 layout: post
 title: "#1: Electronics Assistant version 1.1.0."
 date: 2018-10-16
-thumbnail: /assets/images/post_1/ElectronicsAssistant_logo_300x600.jpg
+thumbnail: /assets/images/post_1/ElectronicsAssistant_logo_300x600a.jpg
 ---
 Today I published a new version of the “Electronics Assistant”. The version has the number 1.1.0.
 
